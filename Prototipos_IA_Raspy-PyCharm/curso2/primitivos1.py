@@ -14,3 +14,5 @@ print(125.59, type(125.58))
 print(125.59 == 125.59, str(125.58))
 #print('fran', int('fran')) #erro pq fran não pode ser um inteiro
 
+# teste GIT Hub
+
